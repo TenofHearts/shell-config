@@ -7,3 +7,5 @@ custom-shader = cursor_tail.glsl
 custom-shader-animation = always
 
 keybind = ctrl+v=paste_from_clipboard
+
+config-file = ?local.ghostty
