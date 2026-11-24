@@ -6,6 +6,8 @@ adjust-cell-width = -1
 custom-shader = cursor_tail.glsl
 custom-shader-animation = always
 
+right-click-action = copy-or-paste
+
 keybind = super+v=unbind
 keybind = super+shift+v=unbind
 keybind = shift+insert=unbind
