@@ -6,6 +6,14 @@ adjust-cell-width = -1
 custom-shader = cursor_tail.glsl
 custom-shader-animation = always
 
-keybind = ctrl+v=paste_from_clipboard
+keybind = super+v=unbind
+keybind = super+shift+v=unbind
+keybind = shift+insert=unbind
+keybind = paste=unbind
+
+keybind = ctrl+shift+c=copy_to_clipboard
+keybind = ctrl+shift+v=paste_from_clipboard
+keybind = ctrl+shift+f=start_search
+keybind = ctrl+shift+a=select_all
 
 config-file = ?local.ghostty
